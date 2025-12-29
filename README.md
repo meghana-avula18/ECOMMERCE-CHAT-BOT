@@ -1,3 +1,6 @@
+ECOMMERCE-CHAT-BOT
+
+
 This project is a GenAI-based chatbot that explains product return and refund processes for e-commerce platforms.
 
 The bot:
